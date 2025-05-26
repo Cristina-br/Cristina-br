@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
-  Estudante de TI • Apaixonada por Python, Java, Dados e Comunidades • Explorando novas tecnologias com propósito
+  Apaixonada por Python, Java, Dados e Comunidades • Explorando novas tecnologias com propósito
 </p>
 
 <p align="center">
