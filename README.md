@@ -18,7 +18,7 @@ Buscando oportunidades como:
 
 - Estagiária em **Análise de Dados**
 - Estagiária em **Ciência de Dados**
-- Estagiária como **Desenvolvedora Backend**
+- Estagiária em **Desenvolvimento Backend**
 
 ---
 
@@ -28,7 +28,6 @@ Buscando oportunidades como:
 - 🖥️ Estudante do **Programa Jovem Programador** (SENAC/SEPROSC)
 - 🧪 Experiência prática com Python, SQL, Docker, Django, BI e Java
 - ✨ Participante de mentorias, comunidades e eventos tech
-- 
 - 🌍 Intercâmbio nos EUA (1 ano e 4 meses) | Nível de inglês: B2
 
 ---
