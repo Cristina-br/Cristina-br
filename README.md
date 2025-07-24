@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
-  Apaixonada por Python, Java, Dados e Comunidades • Explorando novas tecnologias com propósito
+  Apaixonada por Python, Infraestrutura e Segurança • Explorando novas tecnologias com propósito e inclusão
 </p>
 
 <p align="center">
@@ -12,21 +12,11 @@
 
 ---
 
-### 🎯 Objetivo
-
-Buscando oportunidades como:
-
-- Estagiária em **Análise de Dados**
-- Estagiária em **Ciência de Dados**
-- Estagiária em **Desenvolvimento Backend**
-
----
-
 ### 👩‍💻 Sobre mim
 
 - 🎓 Graduanda em **Gestão da Tecnologia da Informação** (Unicesumar)
-- 🖥️ Estudante do **Programa Jovem Programador** (SENAC/SEPROSC)
-- 🧪 Experiência prática com Python, SQL, Docker, Django, BI e Java
+- 🖥️ Interessada em **Infraestrutura e Segurança**
+- 🧪 Experiência prática com Python, SQL e Docker
 - ✨ Participante de mentorias, comunidades e eventos tech
 - 🌍 Intercâmbio nos EUA (1 ano e 4 meses) | Nível de inglês: B2
 
@@ -35,12 +25,11 @@ Buscando oportunidades como:
 ### 💡 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -54,9 +43,7 @@ Buscando oportunidades como:
 ---
 
 ### 🧠 Projetos e Aprendizados Recentes
-
-- 📝 **Blog em Django + Docker + PostgreSQL** — Projeto da mentoria Cumbuca Dev  
-- 📊 **Análise de Dados com Pandas e Regressão Linear** — Curso de Análise de Dados da PrograMaria   
+ 
 - 🧰 **Introdução a DevOps e Scrum** — Cursos IBM
 - 🛡️ **Segurança de Endpoint** — Curso da Cisco
 - 🔐 **Cibersegurança e certificação digital** — Experiência na Trust Core
