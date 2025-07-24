@@ -52,7 +52,7 @@
 
 ### 🤝 Comunidade e Voluntariado
 
-- 🐍 Membro da PyLadies Floripa – Comunidade que incentiva a participação de mulheres na tecnologia através de eventos, oficinas e apoio mútuo.
+- 🐍 PyLadies Floripa – Comunidade que incentiva a participação de mulheres na tecnologia através de eventos, oficinas e apoio mútuo.
 - 🐙 Voluntária na Python Sul 2024 – Apoio à organização e participação em atividades da comunidade Python em Floripa.
 - 🥣 Mentorada pela Cumbuca Dev (1ª turma) – Projeto voltado à inclusão de mulheres e pessoas minorizadas na tecnologia.
 
