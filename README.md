@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
-  Apaixonada por Python, Infraestrutura e Segurança • Explorando novas tecnologias com propósito e inclusão
+ Graduanda em Gestão da TI • Business Analyst em formação • Explorando tecnologias com propósito e inclusão
 </p>
 
 <p align="center">
@@ -14,11 +14,12 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Graduanda em **Gestão da Tecnologia da Informação** (Unicesumar)
-- 🖥️ Interessada em **Infraestrutura e Segurança**
-- 🧪 Experiência prática com Python, SQL e Docker
-- ✨ Participante de mentorias, comunidades e eventos tech
-- 🌍 Intercâmbio nos EUA (1 ano e 4 meses) | Nível de inglês: B2
+- 🎓 Graduanda em **Gestão da Tecnologia da Informação** (Unicesumar – conclusão 2026.1)  
+- 💼 Experiência em **Cibersegurança e soluções tecnológicas** (Trust Core, 2024–2025)  
+- 🖥️ Interessada em **Business Analysis | Process & Requirements Analysis | Projetos de TI**  
+- 🧪 Conhecimentos em **Python (Pandas, Matplotlib) · SQL · BI · Visualização de Dados**  
+- 🚀 Participei de mentorias e programas de desenvolvimento (Alumna, Cumbuca Dev)  
+- 🌍 Intercâmbio nos EUA (Savannah College of Art and Design, 2014–2015) | Inglês B2/C1  
 
 ---
 
@@ -27,9 +28,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![BI](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF4500?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
@@ -44,17 +47,19 @@
 
 ### 🧠 Projetos e Aprendizados Recentes
  
-- 🧰 **Introdução a DevOps e Scrum** — Cursos IBM
-- 🛡️ **Segurança de Endpoint** — Curso da Cisco
-- 🔐 **Cibersegurança e certificação digital** — Experiência na Trust Core
+- 📊 **Análise de Dados com Python e SQL** — PrograMaria, DWX+ Data World Xperience  
+- 🛡️ **Cibersegurança e Certificação Digital** — Trust Core & Cisco Endpoint Security  
+- 🔧 **Projeto Blog com Django, PostgreSQL e Docker** — Mentoria Cumbuca Dev  
+- 🌀 **Agile & Scrum** — IBM (Coursera)  
 
 ---
 
 ### 🤝 Comunidade e Voluntariado
 
-- 🐍 PyLadies Floripa – Comunidade que incentiva a participação de mulheres na tecnologia através de eventos e apoio mútuo.
-- 🐙 Voluntária na Python Sul 2024 – Apoio à organização e participação em atividades da comunidade Python em Floripa.
-- 🥣 Mentorada pela Cumbuca Dev (1ª turma) – Projeto voltado à inclusão de mulheres e pessoas minorizadas na tecnologia.
+- 🐍 **PyLadies Floripa** – Comunidade que incentiva a participação de mulheres na tecnologia.  
+- 🐙 **Voluntária na Python Sul 2024** – Apoio à organização e networking na comunidade Python.  
+- 🎤 **TDC Floripa 2025** – Voluntária assistente na organização de um dos maiores eventos tech do Brasil.  
+- 🥣 **Mentorada pela Cumbuca Dev (1ª turma)** – Inclusão de mulheres e pessoas minorizadas na tecnologia.  
 
 ---
 
