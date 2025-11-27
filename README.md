@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
- Graduanda em Gestão da TI • Business Analyst em formação • Explorando tecnologias com propósito e inclusão
+ Estratégia do negócio e tecnologia • Explorando tecnologias com propósito e inclusão
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🎓 Graduanda em **Gestão da Tecnologia da Informação** (Unicesumar – conclusão 2026.1)  
 - 💼 Experiência em **Cibersegurança e soluções tecnológicas** (Trust Core, 2024–2025)  
-- 🖥️ Interessada em **Business Analysis | Process & Requirements Analysis | Projetos de TI**  
+- 🖥️ Interessada em **Process & Requirements Analysis | Projetos de TI**  
 - 🧪 Conhecimentos em **Python (Pandas, Matplotlib) · SQL · BI · Visualização de Dados**  
 - 🚀 Participei de mentorias e programas de desenvolvimento (Alumna, Cumbuca Dev)  
 - 🌍 Intercâmbio nos EUA (Savannah College of Art and Design, 2014–2015) | Inglês B2/C1  
@@ -48,8 +48,7 @@
 ### 🧠 Projetos e Aprendizados Recentes
  
 - 📊 **Análise de Dados com Python e SQL** — PrograMaria, DWX+ Data World Xperience  
-- 🛡️ **Cibersegurança e Certificação Digital** — Trust Core & Cisco Endpoint Security  
-- 🔧 **Projeto Blog com Django, PostgreSQL e Docker** — Mentoria Cumbuca Dev  
+- 🛡️ **Cibersegurança e Certificação Digital** — Trust Core & Cisco Endpoint Security   
 - 🌀 **Agile & Scrum** — IBM (Coursera)  
 
 ---
