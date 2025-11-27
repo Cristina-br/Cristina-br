@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
- Estratégia do negócio e tecnologia • Explorando tecnologias com propósito e inclusão
+ Estrategista de negócio e tecnologia • Explorando tecnologias com propósito e inclusão
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 ### 👩‍💻 Sobre mim
 
 - 🎓 Graduanda em **Gestão da Tecnologia da Informação** (Unicesumar – conclusão 2026.1)  
-- 💼 Experiência em **Cibersegurança e soluções tecnológicas** (Trust Core, 2024–2025)  
-- 🖥️ Interessada em **Process & Requirements Analysis | Projetos de TI**  
-- 🧪 Conhecimentos em **Python (Pandas, Matplotlib) · SQL · BI · Visualização de Dados**  
+- 💼 Experiência em **Consultoria de Soluções Tecnológicas em Certificação Digital** (Trust Core, 2024–2025)  
+- 🖥️ Interessada em **Processos, BI e Requisitos | Projetos de TI**  
+- 🧪 Conhecimentos em **BPMN · Python · SQL**  
 - 🚀 Participei de mentorias e programas de desenvolvimento (Alumna, Cumbuca Dev)  
 - 🌍 Intercâmbio nos EUA (Savannah College of Art and Design, 2014–2015) | Inglês B2/C1  
 
@@ -27,11 +27,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-026AA7?style=for-the-badge&logo=diagram&logoColor=white)
+![BI](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![BI](https://img.shields.io/badge/Business%20Intelligence-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FF4500?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
@@ -47,9 +46,11 @@
 
 ### 🧠 Projetos e Aprendizados Recentes
  
-- 📊 **Análise de Dados com Python e SQL** — PrograMaria, DWX+ Data World Xperience  
-- 🛡️ **Cibersegurança e Certificação Digital** — Trust Core & Cisco Endpoint Security   
-- 🌀 **Agile & Scrum** — IBM (Coursera)  
+- 🔎 **Mapeamento e Análise de Processos (BPMN)** — CEAD UFV, ENAP  
+- 📊 **Análise de Dados com Python e SQL** — PrograMaria, DWX+ Data World Xperience 
+- 🌀 **Scrum, Kanban e Agilidade aplicada a Projetos de TI** — CESAR School 
+- 🤖 **IA Generativa em Soluções de TI** — PrograMaria 
+- 📈 **Business Intelligence e Visualização de Dados** — PrograMaria 
 
 ---
 
