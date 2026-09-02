@@ -15,9 +15,9 @@
 ### 👩‍💻 Sobre mim
 
 - 🎓 **Graduanda em Gestão da Tecnologia da Informação** (Unicesumar – 2026)
-- 💼 **Bagagem Profissional (Trust Core, 2024–2025):** Pré-vendas técnicas em segurança (TLS) e práticas hands-on com servidores web (Nginx, Apache e IIS)
+- 💼 **Bagagem Profissional (Trust Core, 2024–2025):** Pré-vendas técnicas em segurança (TLS/SSL) e práticas hands-on com servidores web (Nginx, Apache e IIS)
 - 🎯 **Foco de Atuação:** Infraestrutura Cloud & Redes
-- 🛠️ **Skills:** AWS · Google Cloud · Linux · Redes (TCP/IP, DNS, Firewall) · SSH · Python · SQL
+- 🛠️ **Conceitos & Protocolos:** Redes (TCP/IP, DNS, Firewall) · Segurança (TLS, SSH) · Terminal Linux · Banco de Dados (SQL)
 - 🌍 **Inglês B2** (C2 leitura - intercâmbio EUA)
 
 ---
