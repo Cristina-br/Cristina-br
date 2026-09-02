@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
-  Infraestrutura TI & Suporte • Redes, Linux, Python, SQL
+  Infraestrutura de Nuvem • Multi-Cloud, Linux, Redes & Automação
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 **Graduanda em Gestão da Tecnologia da Informação** (Unicesumar – 2026.1)  
-- 💼 **Consultoria Soluções Tecnológicas** (Trust Core 2024–2025)  
-- 🖥️ **Foco: Infra TI, Redes e Operações Críticas**  
-- 🛠️ **Skills: TCP/IP · Linux · Python/SQL**   
-- 🌍 **Inglês B2** (C2 leitura - intercâmbio USA)  
+- 🎓 **Graduanda em Gestão da Tecnologia da Informação** (Unicesumar – 2026)
+- 💼 **Bagagem Profissional (Trust Core, 2024–2025):** Pré-vendas técnicas em segurança (TLS) e práticas hands-on com servidores web (Nginx, Apache e IIS)
+- 🎯 **Foco de Atuação:** Infraestrutura Cloud & Redes
+- 🛠️ **Skills:** AWS · Google Cloud · Linux · Redes (TCP/IP, DNS, Firewall) · SSH · Python · SQL
+- 🌍 **Inglês B2** (C2 leitura - intercâmbio EUA)
 
 ---
 
-### 💻 Stack Infra TI
+### 💻 Stack & Cloud
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
