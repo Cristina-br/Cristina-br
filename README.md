@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Cristina! 😺</h1>
 
 <p align="center">
- Infraestrutura TI & Suporte • Redes, Linux, Python, SQL
+  Infraestrutura TI & Suporte • Redes, Linux, Python, SQL
 </p>
 
 <p align="center">
@@ -25,22 +25,14 @@
 ### 💻 Stack Infra TI
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TCPIP](https://img.shields.io/badge/TCP_IP-000000?style=for-the-badge&logo=network&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristina-br&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristina-br&layout=compact&theme=radical" width="45%" />
-</div>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ### 🤝 Comunidade
 
-- 🐍 **TDC Floripa 2025** + **Python Sul 2024** (Voluntária)  
+- 🐍 **TDC Floripa 2025** + **Python Sul 2024** (Voluntária)
