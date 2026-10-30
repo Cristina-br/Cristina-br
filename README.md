@@ -14,7 +14,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 **Graduanda em Gestão da Tecnologia da Informação** (Unicesumar – 2026)
+- 🎓 **Graduanda em Sistemas de Informação** (Unisul – em andamento)
 - 💼 **Bagagem Profissional (Trust Core, 2024–2025):** Pré-vendas técnicas em segurança (TLS/SSL) e práticas hands-on com servidores web (Nginx, Apache e IIS)
 - 🎯 **Foco de Atuação:** Infraestrutura Cloud & Redes
 - 🛠️ **Conceitos & Protocolos:** Redes (TCP/IP, DNS, Firewall) · Segurança (TLS, SSH) · Terminal Linux · Banco de Dados (SQL)
